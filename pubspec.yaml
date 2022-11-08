@@ -1,13 +1,21 @@
 name: reactivity_streams_dart
 description: A simple command-line application.
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/Suebersson/reactivity_streams_dart.git
+
+# Comandos para atulizar o repositório no github
+# git init
+# git add .
+# git commit -m "name commit"
+# git remote add origin https://github.com/Suebersson/reactivity_streams_dart.git
+# git pull origin main
+# git push -u origin main
 
 environment:
   sdk: '>=2.16.1 <3.0.0'
 
-
-# dependencies:
+dependencies:
+  meta:
 #   path: ^1.8.0
 
 dev_dependencies:
